@@ -1,1 +1,1 @@
-Feature/architecture-diagram nam je za dijagram arhitekture.
+Feature/architecture-diagram nam je za resenja dijagram arhitekture.
